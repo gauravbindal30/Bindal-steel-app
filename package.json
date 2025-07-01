@@ -1,0 +1,11 @@
+{
+  "name": "bindal-steel-app",
+  "version": "1.0.0",
+  "description": "Bindal Steel Factory Web App",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir build"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
