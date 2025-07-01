@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Bindal Steel Factory Web App",
   "scripts": {
+    "dev": "parcel index.html",
     "build": "parcel build index.html --dist-dir build"
   },
   "devDependencies": {
